@@ -1,0 +1,8 @@
+2026-06-15 09:36:11,793 - ERROR - InvalidAmountError: Attempted to process -300.0 VND.
+2026-06-15 09:36:32,867 - INFO - IDeposit successful: 300.0 VND. Current Balance: 300.0
+2026-06-15 09:36:53,444 - INFO - IDeposit successful: 500.0 VND. Current Balance: 800.0
+2026-06-15 09:37:45,243 - ERROR - Lỗi nhập dữ liệu sai định dạng
+2026-06-15 09:37:50,499 - ERROR - InvalidAmountError: Attempted to process -1212.0 VND.
+2026-06-15 09:49:35,448 - ERROR - InvalidAmountError: Attempted to process -12.0 VND.
+2026-06-15 09:49:39,137 - INFO - IDeposit successful: 1000.0 VND. Current Balance: 1000.0
+2026-06-15 09:58:57,174 - INFO - IDeposit successful: 50000.0 VND. Current Balance: 150000.0
